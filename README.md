@@ -91,12 +91,12 @@ Access Granted!
 
 ### ✅ Directory Listing
 
-```
+`````
 MiniDOS> $dir
 FILE1.TXT
 FILE2.BIN
 DATA.DAT
-```
+`````
 
 ### ✅ Create File
 
