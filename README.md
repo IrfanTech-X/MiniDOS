@@ -74,7 +74,7 @@ tlink MiniDOS.obj
 dosbox MiniDOS.exe
 ```
 
-> Enter the password: `robindos`  
+> Enter the password: `irfandos`  
 > (You can change this in the `.data` segment of the source code.)
 
 ---
