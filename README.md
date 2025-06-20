@@ -137,10 +137,11 @@ This project is ideal for those wanting to:
 💻 GitHub: [github.com/IrfanTech-X](https://github.com/IrfanTech-X)
 
 ### **Robin Hossain**  
-🎓 CSE Undergraduate Student, Green University of Bangladesh
+🎓 CSE Undergraduate Student, Green University of Bangladesh  
 📧 Email: [siamtalukdar3@gmail.com](mailto:siamtalukdar3@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/mossarraf-hossain-robin-307649256/](https://www.linkedin.com/in/mossarraf-hossain-robin-307649256/)  
 💻 GitHub: [github.com/MossarrafHossainRobin](https://github.com/MossarrafHossainRobin)
+
 ---
 
 ## 📃 License
