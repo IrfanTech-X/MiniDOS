@@ -133,13 +133,13 @@ This project is ideal for those wanting to:
 
 ### **Irfan Ferdous Siam**  
 🎓 CSE Undergraduate Student, Green University of Bangladesh  
-📧 Email: [rh503648@gmail.com](mailto:rh503648@gmail.com)  
+📧 Email: [siamtalukdar3@gmail.com](mailto:siamtalukdar3@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/irfan-ferdous-siam](https://linkedin.com/in/irfan-ferdous-siam)  
 💻 GitHub: [github.com/IrfanTech-X](https://github.com/IrfanTech-X)
 
 ### **Robin Hossain**  
 🎓 CSE Undergraduate Student, Green University of Bangladesh  
-📧 Email: [siamtalukdar3@gmail.com](mailto:siamtalukdar3@gmail.com)  
+📧 Email:  [rh503648@gmail.com](mailto:rh503648@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/mossarraf-hossain-robin-307649256/](https://www.linkedin.com/in/mossarraf-hossain-robin-307649256/)  
 💻 GitHub: [github.com/MossarrafHossainRobin](https://github.com/MossarrafHossainRobin)
 
